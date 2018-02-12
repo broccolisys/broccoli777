@@ -1,0 +1,62 @@
+﻿빅데이터 저장을 위해 아래 프로그램을 작성하시오.
+
+문제1] 아래 네네치킨 전체 가맹점 정보를 제공하는 xml 파일을 읽어 들여서 그 결과를 csv 파일로 저장한다. 기타 상세 조건은 아래와 같다.
+- 저장시 아래 폴더에 저장한다.
+V1_BigData\
+- 프로그램을 반복 실행시 csv 파일은 nene1.csv nene2.csv .. 이런 방식으로 증가한다.
+- 프로그램 이름은 [홍길동]_nene_ver1.py로 작성한다.
+ex) 김기정_nene_ver1.py
+
+
+문제2] 문제1에서 작성한 파일을 기반으로 아래 조건을 추가한다.
+record_limit이라는 변수를 설정한다.
+record_limit 변수에서 설정한 값에 따라 아래 폴더에 그 값만큼 생성이 된다.
+ex) record_limit가 3인 경우
+V2_Bigdata\Nene_data1\nene1.csv
+V2_Bigdata\Nene_data1\nene2.csv
+V2_Bigdata\Nene_data1\nene3.csv
+V2_Bigdata\Nene_data2\nene4.csv
+V2_Bigdata\Nene_data2\nene5.csv
+.
+.
+.
+- 프로그램 이름은 [홍길동]_nene_ver2.py로 작성한다.
+ex) 김기정_nene_ver2.py
+
+문제3] 문제2에서 작성한 파일을 기반으로 아래 조건을 추가한다.
+- 파일명에 시간 정보를 추가한다.
+V3_Bigdata\Nene_data1\nene_년월일시분초.csv
+.
+.
+.
+년월일시분초는 자유롭게 표현한다.
+- 프로그램 이름은 [홍길동]_nene_ver3.py로 작성한다.
+ex) 김기정_nene_ver3.py
+
+문제4] 주어진 프로그램을 기반으로 아래 조건을 추가한다.
+- 레코드를 100개 단위로 끊어서 저장한다.
+V4_Bigdata\Nene_data1\nene1.csv
+     .
+     .
+V4_Bigdata\Nene_data1\nene12.csv
+- 프로그램 재수행시 아래와 같이 폴더를 증가한다.
+V4_Bigdata\Nene_data1
+V4_Bigdata\Nene_data2
+V4_Bigdata\Nene_data3
+.
+.
+.
+- 프로그램 이름은 [홍길동]_nene_ver4.py로 작성한다.
+ex) 김기정_nene_ver4.py
+
+
+문제5] 아래 포탈에서 제공하는 실시간 영화랭킹 html 정보를 크롤링 기술을 적용하여 csv 정형화 데이터로 저장한다.
+http://movie.naver.com/movie/sdb/rank/rmovie.nhn
+
+# 순위 |      영화명       | 변동폭
+#  1   |       1987        |   0
+#  2   |  신과함께-죄와 벌 |   1
+#  3   |쥬만지: 새로운세계 |   1
+
+- 프로그램 이름은 [홍길동]_naver_realtime_movie_ranking.py로 작성한다.
+ex) 김기정_naver_realtime_movie_ranking.py

@@ -1,0 +1,1 @@
+html = urlopen("https://pythonscraping.com/pages/page1.html")

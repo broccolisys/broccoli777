@@ -1,0 +1,3562 @@
+[
+    {
+        "ForNum": 273,
+        "NatNum": 8667,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 910,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 5395,
+        "NatNum": 10514,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 54,
+        "NatNum": 1395,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 2000,
+        "NatNum": 4948,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 806,
+        "NatNum": 4220,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 692,
+        "NatNum": 16530,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 373,
+        "NatNum": 4340,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 4,
+        "NatNum": 46829,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 71,
+        "NatNum": 1154,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201101"
+    },
+    {
+        "ForNum": 162,
+        "NatNum": 4536,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 70,
+        "NatNum": 850,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 6287,
+        "NatNum": 10509,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 55,
+        "NatNum": 1365,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 4613,
+        "NatNum": 3197,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 696,
+        "NatNum": 4513,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 4212,
+        "NatNum": 12376,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 514,
+        "NatNum": 4322,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 14,
+        "NatNum": 39105,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 329,
+        "NatNum": 1204,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201102"
+    },
+    {
+        "ForNum": 668,
+        "NatNum": 13203,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 82,
+        "NatNum": 980,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 6102,
+        "NatNum": 7159,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 46,
+        "NatNum": 1305,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 2322,
+        "NatNum": 3444,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 1062,
+        "NatNum": 3668,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 3306,
+        "NatNum": 8411,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 796,
+        "NatNum": 2853,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 16,
+        "NatNum": 29241,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 204,
+        "NatNum": 817,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201103"
+    },
+    {
+        "ForNum": 549,
+        "NatNum": 23580,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 81,
+        "NatNum": 920,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 6080,
+        "NatNum": 9200,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 59,
+        "NatNum": 1401,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 3771,
+        "NatNum": 3980,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 2485,
+        "NatNum": 5105,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 27,
+        "NatNum": 14750,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 859,
+        "NatNum": 3989,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 67,
+        "NatNum": 30747,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 425,
+        "NatNum": 1156,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201104"
+    },
+    {
+        "ForNum": 1133,
+        "NatNum": 35531,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 890,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 6802,
+        "NatNum": 11295,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 55,
+        "NatNum": 1433,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 2376,
+        "NatNum": 5396,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 2719,
+        "NatNum": 4750,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 21,
+        "NatNum": 16381,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 864,
+        "NatNum": 4351,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 21,
+        "NatNum": 30975,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 70,
+        "NatNum": 1492,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201105"
+    },
+    {
+        "ForNum": 2701,
+        "NatNum": 51415,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 890,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 6215,
+        "NatNum": 11144,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 53,
+        "NatNum": 1499,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 2878,
+        "NatNum": 5058,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 2719,
+        "NatNum": 4028,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 33,
+        "NatNum": 14318,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 626,
+        "NatNum": 4077,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 46,
+        "NatNum": 29109,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 137,
+        "NatNum": 1294,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201106"
+    },
+    {
+        "ForNum": 912,
+        "NatNum": 34363,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 67,
+        "NatNum": 930,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 5842,
+        "NatNum": 15582,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 88,
+        "NatNum": 1837,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 1752,
+        "NatNum": 6354,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 927,
+        "NatNum": 4732,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 16,
+        "NatNum": 18218,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 799,
+        "NatNum": 10289,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 21,
+        "NatNum": 34923,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 135,
+        "NatNum": 1329,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201107"
+    },
+    {
+        "ForNum": 765,
+        "NatNum": 53141,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 65,
+        "NatNum": 1020,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 7041,
+        "NatNum": 20280,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 181,
+        "NatNum": 1656,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 2707,
+        "NatNum": 7572,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 1032,
+        "NatNum": 5644,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 278,
+        "NatNum": 21125,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 267,
+        "NatNum": 6641,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 27,
+        "NatNum": 32592,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 50,
+        "NatNum": 1431,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201108"
+    },
+    {
+        "ForNum": 940,
+        "NatNum": 29676,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 81,
+        "NatNum": 840,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 7297,
+        "NatNum": 9459,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 108,
+        "NatNum": 1060,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 3352,
+        "NatNum": 4635,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 1194,
+        "NatNum": 4132,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 607,
+        "NatNum": 14574,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 452,
+        "NatNum": 3778,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 511,
+        "NatNum": 1275,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201109"
+    },
+    {
+        "ForNum": 550,
+        "NatNum": 44449,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 78,
+        "NatNum": 910,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 15408,
+        "NatNum": 18619,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 248,
+        "NatNum": 1714,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 5042,
+        "NatNum": 6534,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 3752,
+        "NatNum": 6172,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 4909,
+        "NatNum": 19150,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 2055,
+        "NatNum": 8051,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 277,
+        "NatNum": 1078,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201110"
+    },
+    {
+        "ForNum": 499,
+        "NatNum": 40747,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 75,
+        "NatNum": 870,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 13839,
+        "NatNum": 16137,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 329,
+        "NatNum": 1096,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 6083,
+        "NatNum": 5461,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 2509,
+        "NatNum": 6172,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 721,
+        "NatNum": 14697,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 1777,
+        "NatNum": 7901,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 310,
+        "NatNum": 855,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201111"
+    },
+    {
+        "ForNum": 420,
+        "NatNum": 34629,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 58,
+        "NatNum": 910,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 7437,
+        "NatNum": 16250,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 299,
+        "NatNum": 1196,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 75114,
+        "NatNum": 7388,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 1473,
+        "NatNum": 8750,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 456,
+        "NatNum": 17076,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 1677,
+        "NatNum": 7534,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 242,
+        "NatNum": 1096,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201112"
+    },
+    {
+        "ForNum": 286,
+        "NatNum": 9110,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 80,
+        "NatNum": 937,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 7004,
+        "NatNum": 16473,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 59,
+        "NatNum": 1436,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 2063,
+        "NatNum": 4830,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 1403,
+        "NatNum": 6012,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 712,
+        "NatNum": 17025,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 1113,
+        "NatNum": 5736,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 9610,
+        "NatNum": 37223,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 1188,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201201"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 4762,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 52,
+        "NatNum": 830,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 5538,
+        "NatNum": 9853,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 1919,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 2094,
+        "NatNum": 5599,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 674,
+        "NatNum": 4480,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 191,
+        "NatNum": 29152,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 434,
+        "NatNum": 3951,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 19,
+        "NatNum": 40278,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 339,
+        "NatNum": 1240,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201202"
+    },
+    {
+        "ForNum": 688,
+        "NatNum": 13863,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 39,
+        "NatNum": 790,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 7511,
+        "NatNum": 8644,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 48,
+        "NatNum": 1370,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 4082,
+        "NatNum": 4207,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 1119,
+        "NatNum": 3788,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 481,
+        "NatNum": 14253,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 691,
+        "NatNum": 4225,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 32,
+        "NatNum": 29820,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 205,
+        "NatNum": 841,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201203"
+    },
+    {
+        "ForNum": 1351,
+        "NatNum": 52847,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 57,
+        "NatNum": 860,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 8253,
+        "NatNum": 8911,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 48,
+        "NatNum": 1412,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 5035,
+        "NatNum": 9057,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 2421,
+        "NatNum": 4368,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 552,
+        "NatNum": 14242,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 994,
+        "NatNum": 4816,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 67,
+        "NatNum": 30747,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 503,
+        "NatNum": 937,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201204"
+    },
+    {
+        "ForNum": 1135,
+        "NatNum": 45908,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 910,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 7353,
+        "NatNum": 11803,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 49,
+        "NatNum": 1425,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 4373,
+        "NatNum": 4739,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 1336,
+        "NatNum": 5178,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 6,
+        "NatNum": 18432,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 691,
+        "NatNum": 3211,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 2,
+        "NatNum": 30528,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 229,
+        "NatNum": 1213,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201205"
+    },
+    {
+        "ForNum": 1282,
+        "NatNum": 50759,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 68,
+        "NatNum": 880,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 10222,
+        "NatNum": 10714,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 1512,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 5605,
+        "NatNum": 3604,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 1486,
+        "NatNum": 4277,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 39,
+        "NatNum": 14726,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 649,
+        "NatNum": 4082,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 32676,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 182,
+        "NatNum": 1246,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201206"
+    },
+    {
+        "ForNum": 896,
+        "NatNum": 25365,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 54,
+        "NatNum": 910,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 6784,
+        "NatNum": 18211,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 73,
+        "NatNum": 1888,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 3352,
+        "NatNum": 4635,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 1486,
+        "NatNum": 4277,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 71,
+        "NatNum": 17978,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 1611,
+        "NatNum": 9457,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 67,
+        "NatNum": 30747,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 215,
+        "NatNum": 1075,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201207"
+    },
+    {
+        "ForNum": 945,
+        "NatNum": 16396,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 59,
+        "NatNum": 860,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 7124,
+        "NatNum": 25341,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 186,
+        "NatNum": 1681,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 2664,
+        "NatNum": 5398,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 865,
+        "NatNum": 7158,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 132,
+        "NatNum": 20010,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 1629,
+        "NatNum": 11733,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 58,
+        "NatNum": 30528,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 118,
+        "NatNum": 1569,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201208"
+    },
+    {
+        "ForNum": 765,
+        "NatNum": 27636,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 128,
+        "NatNum": 821,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 7667,
+        "NatNum": 10955,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 168,
+        "NatNum": 1108,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 3352,
+        "NatNum": 4635,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 1128,
+        "NatNum": 4150,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 15,
+        "NatNum": 11059,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 1876,
+        "NatNum": 6828,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 56,
+        "NatNum": 32676,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 149,
+        "NatNum": 742,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201209"
+    },
+    {
+        "ForNum": 6190,
+        "NatNum": 117916,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 76,
+        "NatNum": 820,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 7268,
+        "NatNum": 12743,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 236,
+        "NatNum": 1702,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 4033,
+        "NatNum": 4591,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 1499,
+        "NatNum": 5047,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 12,
+        "NatNum": 15995,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 1894,
+        "NatNum": 8194,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 49,
+        "NatNum": 34841,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 110,
+        "NatNum": 1074,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201210"
+    },
+    {
+        "ForNum": 4678,
+        "NatNum": 103045,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 71,
+        "NatNum": 850,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 7379,
+        "NatNum": 10915,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 328,
+        "NatNum": 1089,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 3799,
+        "NatNum": 4663,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 1061,
+        "NatNum": 2487,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 4,
+        "NatNum": 13695,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 728,
+        "NatNum": 4531,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 31038,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 302,
+        "NatNum": 799,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201211"
+    },
+    {
+        "ForNum": 1171,
+        "NatNum": 30911,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산시립미술관",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 77,
+        "NatNum": 820,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "M.Do 관광호텔",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 4760,
+        "NatNum": 15177,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "파라다이스호텔부산",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 289,
+        "NatNum": 1187,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "호텔일루아",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 2537,
+        "NatNum": 5676,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대그랜드호텔",
+        "rnum": 5,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 816,
+        "NatNum": 6420,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산웨스턴조선호텔",
+        "rnum": 6,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 18,
+        "NatNum": 14112,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 글로리콘도",
+        "rnum": 7,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 558,
+        "NatNum": 6140,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "노보텔부산",
+        "rnum": 8,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 55,
+        "NatNum": 33896,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "해운대 한화리조트 부산",
+        "rnum": 9,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 33,
+        "NatNum": 1132,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "송정관광호텔",
+        "rnum": 10,
+        "sido": "부산광역시",
+        "yyyymm": "201212"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 80313,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 109827,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85923,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201401"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 69495,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 90596,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 67145,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201402"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 57711,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 62036,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 108895,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201403"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 83386,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 72101,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 51849,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201404"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 102848,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 97469,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 100917,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201405"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 97679,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78449,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 94492,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201406"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 103519,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85162,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 770106,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201407"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 114632,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 145376,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 111701,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201408"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78491,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 60640,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 76004,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201409"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 97130,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 83634,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 94373,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201410"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 79173,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 62905,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 86137,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201411"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 77138,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 81066,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 68096,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201412"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 109460,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 93554,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 80247,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201501"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 83959,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 65229,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 49325,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201502"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 69388,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 48363,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 89570,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201503"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 71261,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 67092,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 74116,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201504"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 95072,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 100635,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 98660,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201505"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 58696,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 26896,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 64844,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201506"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78087,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 68594,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 73079,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201507"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 96881,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 113258,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 89965,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201508"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 61414,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 52966,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 54726,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201509"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 83090,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 74377,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 80887,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201510"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 50146,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 57330,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 61951,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201511"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78767,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 60766,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 50314,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201512"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 88135,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 84594,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 93315,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201601"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 88460,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 75981,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 59890,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201602"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 59894,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 52435,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 74187,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201603"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85582,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78813,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 100464,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201604"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 86889,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 78008,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 99871,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201605"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 72321,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 68075,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 82744,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201606"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85317,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 90390,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 102015,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201607"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 113101,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 109722,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 82055,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201608"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 52552,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 52685,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 69166,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201609"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 71513,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 74903,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 110666,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201610"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 63463,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 44740,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 70073,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201611"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 81908,
+        "addrCd": 2620,
+        "gungu": "영도구",
+        "resNm": "태종대 관광지",
+        "rnum": 1,
+        "sido": "부산광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 65326,
+        "addrCd": 2635,
+        "gungu": "해운대구",
+        "resNm": "부산아쿠아리움",
+        "rnum": 2,
+        "sido": "부산광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 85165,
+        "addrCd": 2644,
+        "gungu": "강서구",
+        "resNm": "한국마사회 렛츠런파크 부산경남",
+        "rnum": 3,
+        "sido": "부산광역시",
+        "yyyymm": "201612"
+    },
+    {
+        "ForNum": 0,
+        "NatNum": 0,
+        "addrCd": 2671,
+        "gungu": "기장군",
+        "resNm": "국립부산과학관",
+        "rnum": 4,
+        "sido": "부산광역시",
+        "yyyymm": "201612"
+    }
+]
