@@ -18,5 +18,6 @@ with open(input_file,'r',newline='') as csv_in_file:
         filewriter = csv.writer(csv_out_file)
         for row in filereader:
             if row_counter >= 3 and row_counter <= 15:
+            # if 문을 통해 row_counter 변수를 사용하여 원하는 행만 선택하고 원하지 않는 헤더 및 푸터 내용은 건너뛴다
                 filewriter.writerow([value.strip() for value in row])
             row_counter += 1
